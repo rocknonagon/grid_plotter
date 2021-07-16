@@ -82,5 +82,3 @@ def plot_grid(
         tick.set_fontsize(12)
 
     pyplot.savefig(filename) # save as png
-
-plot_grid(5, filename="square.png")
